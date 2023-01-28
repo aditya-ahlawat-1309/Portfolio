@@ -130,22 +130,21 @@ function App() {
               <div className="inner-content">
                 <div className="logo-wrap">
                   <div className="grid" style={{ textAlign: "left" }}>
-                    Myself Aditya, an alumnus of Chitkara University. I am a
+                    Myself Aditya, <br/>An alumnus of Chitkara University. I am a
                     passionate, determined, enthusiastic person who believes
                     hard work and smart work must be combined for the best
-                    possible outcomes.
-                    <br /> I was always inclined towards computers since the day
+                    possible outcomes. I was always inclined towards computers since the day
                     I saw them in books when I was in 3rd grade and from the
                     days, when I used to program in LOGO which was a fun
                     language as one only needs to remember basic commands like
                     FD1, RT1 and REPEAT 360.
-                    <br /> I am a 5 TIMES STATE CHAMPION in the INTERNATIONAL
-                    SCIENCE OLYMPIAD, CERTIFICATE OF ACHIEVEMENT Holder in GREEN
-                    OLYMPIAD organized by TERI - TATA ENERGY AND RESOURCES
-                    INSTITUTE, Govt. of INDIA. I have also filed 5 PATENTS on
-                    QUANTUM COMPUTING and QUANTUM ENTANGLEMENT out of which one
+                    <br /> I am a 5 times state champion in the International
+                    Science Olympiad, Certificate of Achievement Holder in Green 
+                    Olympiad organized by TERI - TATA Energy And Resources
+                    Institute, Govt. of India. I have also filed 5 Patents on
+                    Quantum Computing and Quantum Entanglement out of which one
                     has been selected by the University Central Committee for
-                    the KAPILA PROGRAM by MINISTRY OF EDUCATION, GOVT. OF INDIA.
+                    the Kapila Program by Ministry of Education, Govt. of India.
                   </div>
                 </div>
                 {/*image-holder*/}
@@ -732,7 +731,7 @@ function App() {
                 <div className="col-md-7">
                   <div className="app-info">
                     <h2 className="section-title divider">
-                      Try our Web-App on your iPhone !
+                      Try our Web-App on your <b style={{textTransform:"lowercase"}}>i</b>Phone !
                     </h2>
                     <p>responsive, beautiful, elegant and on the go...</p>
                   </div>
