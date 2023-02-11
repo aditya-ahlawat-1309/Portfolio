@@ -65,15 +65,7 @@ function App() {
                           PROJECTS
                         </a>
                       </li>
-//                       <li className="menu-item">
-//                         <a
-//                           href="#footer"
-//                           className="nav-link"
-//                           data-effect="Articles"
-//                         >
-//                           CERTIFICATIONS
-//                         </a>
-//                       </li>
+
                       <li className="menu-item">
                         <a
                           href="#footer"
